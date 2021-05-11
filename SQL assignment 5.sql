@@ -68,7 +68,7 @@
 --No. It can be null.
 
 --16.Can we create indexes on Table Variables or Temporary Tables?
---Yes
+--No.
 
 --17.What is Transaction? What types of transaction levels are there in SQL Server?
 --Transaction is a logical unit of work and executes either completely by commit or can be undone by rollback.
